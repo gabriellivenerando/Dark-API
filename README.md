@@ -1,4 +1,4 @@
-<h1 align="center"> DARK API:car:</h1> 
+<h1 align="center"> DARK API:tv:</h1> 
 
 
 ### Descrição do Projeto :open_file_folder:
@@ -26,4 +26,4 @@
 ### Linguagens, dependencias e libs utilizadas :books:
 :pushpin: React.js 
 
-:pushpin: - [API](https://www.tvmaze.com/api)
+:pushpin: [API](https://www.tvmaze.com/api)

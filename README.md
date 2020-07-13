@@ -24,6 +24,6 @@
 
 
 ### Linguagens, dependencias e libs utilizadas :books:
-:pushpin: React.js 
+:pushpin: [React.js] (https://pt-br.reactjs.org/docs/getting-started.html)
 
 :pushpin: [API](https://www.tvmaze.com/api)
